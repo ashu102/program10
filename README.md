@@ -26,6 +26,7 @@ with the "Consistency Trophy" on each day of the competition.
 
 #include<bits/stdc++.h>
 using namespace std;
+
 int main()
 {
 int n,m;
