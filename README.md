@@ -23,6 +23,7 @@ You will be given the age of the ghost who won the "Ghost of the Day" title on e
 day of the competition. Your job is to find out the age of the ghost who was awarded
 with the "Consistency Trophy" on each day of the competition.
 
+
 #include<bits/stdc++.h>
 using namespace std;
 int main()
